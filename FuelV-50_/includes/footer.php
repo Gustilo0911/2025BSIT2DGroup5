@@ -1,2 +1,0 @@
-<?php ?>
-</div><footer class="site-footer fixed"><div class="wrap"><div class="footer-left"><small>&copy; <?php echo date('Y'); ?> Fuel V — Scan & Go</small><span class="dot">•</span><a href="mailto:support@fuelv.local">support@fuelv.local</a><span class="dot">•</span><a href="contact.php">Contact</a></div><div class="store-buttons"><img src="assets/images/appstore.png" alt="App Store"><img src="assets/images/googleplay.png" alt="Google Play"></div></div></footer></div></body></html>
